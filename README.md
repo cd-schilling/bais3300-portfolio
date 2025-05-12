@@ -38,7 +38,7 @@ Google Analytics
 
 Google Analytics is configured using UTM parameters for campaign tracking.
 Example campaign link:
-https://yourcustomdomain.com/?utm_source=linkedin&utm_medium=social&utm_campaign=portfolio-launch
+https://www.cdschilling.com/?utm_source=linkedin&utm_medium=social&utm_campaign=portfolio-launch
 
 ⸻
 
