@@ -1,14 +1,9 @@
-BAIS3300 Portfolio Website – Cade Schilling
-
-Course: Digital Product Management
-Instructor: Mike Colbert
-Semester: Spring 2025
-
+Portfolio Website – Cade Schilling
 ⸻
 
 Project Overview
 
-This portfolio showcases my academic, technical, and professional journey as a Business Analytics and Information Systems student at the University of Iowa. Built using HTML5, CSS3, and Bootstrap 5.3, the site is live on a custom Azure Static Web App and designed with accessibility and responsive design best practices.
+This portfolio highlights my academic, technical, and professional journey in Business Analytics and Information Systems. Built with HTML5, CSS3, and Bootstrap 5.3, it is deployed on a custom Azure Static Web App. The site is fully responsive, accessible, and designed to showcase interactive data analytics projects and dashboards.
 
 ⸻
 
@@ -37,8 +32,6 @@ Website Pages
 Google Analytics
 
 Google Analytics is configured using UTM parameters for campaign tracking.
-Example campaign link:
-https://www.cdschilling.com/?utm_source=linkedin&utm_medium=social&utm_campaign=portfolio-launch
 
 ⸻
 
@@ -52,7 +45,7 @@ Each page was validated for:
 
 ⸻
 
-🔧 Tech Stack
+Tech Stack
 	•	HTML5
 	•	CSS3
 	•	Bootstrap 5.3
